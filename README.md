@@ -35,7 +35,7 @@ node -v # Should print "v22.17.0".
 npm -v # Should print "10.9.2".
 ```
 ```
-git clone https://github.com/atulkamble/docker-nodejs-webapp.git
+git clone https://github.com/NakulsharmaGH/docker-nodejs-webapp.git
 cd docker-nodejs-webapp
 node index.js
 
